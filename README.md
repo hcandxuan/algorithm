@@ -243,10 +243,6 @@
 [773. 滑动谜题](https://leetcode.cn/problems/sliding-puzzle/description/)
 [310. 最小高度树](https://leetcode.cn/problems/minimum-height-trees/description/)
 
-# algorithm
----
-## 作者：按核心知识点重新整理（题目均来自leetcode）
-下面整理了一些题单
 
 - 最后的核心算法与高阶结构：涵盖了底层的位运算、基础结构的巧妙处理，以及竞赛级的高级树与图论算法。
 
