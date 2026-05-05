@@ -242,3 +242,64 @@
 [815. 公交路线](https://leetcode.cn/problems/bus-routes/description/)
 [773. 滑动谜题](https://leetcode.cn/problems/sliding-puzzle/description/)
 [310. 最小高度树](https://leetcode.cn/problems/minimum-height-trees/description/)
+
+# algorithm
+---
+## 作者：按核心知识点重新整理（题目均来自leetcode）
+下面整理了一些题单
+
+- 最后的核心算法与高阶结构：涵盖了底层的位运算、基础结构的巧妙处理，以及竞赛级的高级树与图论算法。
+
+> 链表操作 ( 反转、快慢指针与合并)
+[206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/description/)
+[92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/description/)
+[141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/description/)
+[142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
+[21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/description/)
+[23. 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/description/)
+[25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/description/)
+
+> 位运算 ( 异或、掩码与状态压缩)
+[136. 只出现一次的数字](https://leetcode.cn/problems/single-number/description/)
+[137. 只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/description/)
+[260. 只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/description/)
+[191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/description/)
+[231. 2 的幂](https://leetcode.cn/problems/power-of-two/description/)
+[338. 比特位计数](https://leetcode.cn/problems/counting-bits/description/)
+[201. 数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/description/)
+
+> 前缀和与差分 ( 区间操作的艺术)
+[303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/description/)
+[304. 二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/description/)
+[560. 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/description/)
+[974. 和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k/description/)
+[1109. 航班预订统计](https://leetcode.cn/problems/corporate-flight-bookings/description/)
+[1094. 拼车](https://leetcode.cn/problems/car-pooling/description/)
+[238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/)
+
+> 字符串匹配与处理 ( KMP与中心扩展)
+[28. 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+[459. 重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/description/)
+[214. 最短回文串](https://leetcode.cn/problems/shortest-palindrome/description/)
+[1392. 最长快乐前缀](https://leetcode.cn/problems/longest-happy-prefix/description/)
+[5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/)
+[647. 回文子串](https://leetcode.cn/problems/palindromic-substrings/description/)
+[8. 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/description/)
+
+> 线段树与树状数组 ( 动态区间查询)
+[307. 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/description/)
+[315. 计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/description/)
+[327. 区间和的个数](https://leetcode.cn/problems/count-of-range-sum/description/)
+[493. 翻转对](https://leetcode.cn/problems/reverse-pairs/description/)
+[715. Range 模块](https://leetcode.cn/problems/range-module/description/)
+[732. 我的日程安排表 III](https://leetcode.cn/problems/my-calendar-iii/description/)
+[699. 掉落的方块](https://leetcode.cn/problems/falling-squares/description/)
+
+> 图论 ( 最短路与最小生成树)
+[743. 网络延迟时间](https://leetcode.cn/problems/network-delay-time/description/)
+[787. K 站中转内最便宜的航班](https://leetcode.cn/problems/cheapest-flights-within-k-stops/description/)
+[1514. 概率最大的路径](https://leetcode.cn/problems/path-with-maximum-probability/description/)
+[1584. 连接所有点的最小费用](https://leetcode.cn/problems/min-cost-to-connect-all-points/description/)
+[1489. 找到最小生成树里的关键边和伪关键边](https://leetcode.cn/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
+[1334. 阈值距离内邻居最少的城市](https://leetcode.cn/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
+[2642. 设计可以求最短路径的图类](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator/description/)
