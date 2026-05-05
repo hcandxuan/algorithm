@@ -244,8 +244,6 @@
 [310. 最小高度树](https://leetcode.cn/problems/minimum-height-trees/description/)
 
 
-- 最后的核心算法与高阶结构：涵盖了底层的位运算、基础结构的巧妙处理，以及竞赛级的高级树与图论算法。
-
 > 链表操作 ( 反转、快慢指针与合并)
 [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/description/)
 [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/description/)
@@ -299,3 +297,117 @@
 [1489. 找到最小生成树里的关键边和伪关键边](https://leetcode.cn/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 [1334. 阈值距离内邻居最少的城市](https://leetcode.cn/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
 [2642. 设计可以求最短路径的图类](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator/description/)
+
+
+
+- 剩下的核心算法体系：涵盖了状态转移、局部最优解、暴力搜索剪枝以及高级数据结构的应用。
+
+> 动态规划 ( 基础与背包模型)
+[70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/description/)
+[53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/)
+[322. 零钱兑换](https://leetcode.cn/problems/coin-change/description/)
+[416. 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/description/)
+[494. 目标和](https://leetcode.cn/problems/target-sum/description/)
+[300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/description/)
+[1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/description/)
+
+> 动态规划 ( 进阶：区间、树形与状态压缩)
+[516. 最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/description/)
+[312. 戳气球](https://leetcode.cn/problems/burst-balloons/description/)
+[337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/description/)
+[968. 监控二叉树](https://leetcode.cn/problems/binary-tree-cameras/description/)
+[188. 买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/description/)
+[526. 优美的排列](https://leetcode.cn/problems/beautiful-arrangement/description/)
+[903. DI 序列的有效排列](https://leetcode.cn/problems/valid-permutations-for-di-sequence/description/)
+
+> 贪心算法 ( 局部最优推导全局最优)
+[455. 分发饼干](https://leetcode.cn/problems/assign-cookies/description/)
+[55. 跳跃游戏](https://leetcode.cn/problems/jump-game/description/)
+[45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/description/)
+[135. 分发糖果](https://leetcode.cn/problems/candy/description/)
+[406. 根据身高重建队列](https://leetcode.cn/problems/queue-reconstruction-by-height/description/)
+[435. 无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals/description/)
+[763. 划分字母区间](https://leetcode.cn/problems/partition-labels/description/)
+
+> 回溯算法 ( 排列组合与搜索剪枝)
+[46. 全排列](https://leetcode.cn/problems/permutations/description/)
+[77. 组合](https://leetcode.cn/problems/combinations/description/)
+[78. 子集](https://leetcode.cn/problems/subsets/description/)
+[39. 组合总和](https://leetcode.cn/problems/combination-sum/description/)
+[131. 分割回文串](https://leetcode.cn/problems/palindrome-partitioning/description/)
+[51. N 皇后](https://leetcode.cn/problems/n-queens/description/)
+[37. 解数独](https://leetcode.cn/problems/sudoku-solver/description/)
+
+> 单调栈与单调队列 ( 维护局部单调性，找最近的极值)
+[739. 每日温度](https://leetcode.cn/problems/daily-temperatures/description/)
+[496. 下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/description/)
+[503. 下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii/description/)
+[84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/)
+[42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/description/)
+[239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/description/)
+[862. 和至少为 K 的最短子数组](https://leetcode.cn/problems/shortest-subarray-with-sum-at-least-k/description/)
+
+> 高级数据结构 ( 并查集 DSU 与 字典树 Trie)
+[208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/description/)
+[212. 单词搜索 II](https://leetcode.cn/problems/word-search-ii/description/)
+[421. 数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/description/)
+[684. 冗余连接](https://leetcode.cn/problems/redundant-connection/description/)
+[990. 等式方程的可满足性](https://leetcode.cn/problems/satisfiability-of-equality-equations/description/)
+[128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/description/)
+[1631. 最小体力消耗路径](https://leetcode.cn/problems/path-with-minimum-effort/description/)
+
+
+
+动态规划专题
+
+> 专项一：线性 DP (Linear DP - 一维/二维状态与基础推导)
+[509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/description/)
+[746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/description/)
+[198. 打家劫舍](https://leetcode.cn/problems/house-robber/description/)
+[213. 打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/description/)
+[91. 解码方法](https://leetcode.cn/problems/decode-ways/description/)
+[300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/description/)
+[354. 俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/description/)
+
+> 专项二：背包问题 (Knapsack DP - 01背包、完全背包与组合)
+[416. 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/description/)
+[1049. 最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/description/)
+[494. 目标和](https://leetcode.cn/problems/target-sum/description/)
+[474. 一和零](https://leetcode.cn/problems/ones-and-zeroes/description/)
+[322. 零钱兑换](https://leetcode.cn/problems/coin-change/description/)
+[518. 零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/description/)
+[279. 完全平方数](https://leetcode.cn/problems/perfect-squares/description/)
+
+> 专项三：区间 DP (Interval DP - 区间合并与拆分)
+[516. 最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/description/)
+[312. 戳气球](https://leetcode.cn/problems/burst-balloons/description/)
+[375. 猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/description/)
+[1039. 多边形三角剖分的最低得分](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/description/)
+[1000. 合并石头的最低成本](https://leetcode.cn/problems/minimum-cost-to-merge-stones/description/)
+[1547. 切木棍的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/description/)
+[730. 统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/description/)
+
+> 专项四：树形 DP (Tree DP - 树上状态转移与换根)
+[337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/description/)
+[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/)
+[543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/description/)
+[968. 监控二叉树](https://leetcode.cn/problems/binary-tree-cameras/description/)
+[1372. 二叉树中的最长交错路径](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/description/)
+[834. 树中距离之和](https://leetcode.cn/problems/sum-of-distances-in-tree/description/)
+
+> 专项五：状态压缩 DP (状压 DP - 集合的位运算表示)
+[526. 优美的排列](https://leetcode.cn/problems/beautiful-arrangement/description/)
+[464. 我能赢吗](https://leetcode.cn/problems/can-i-win/description/)
+[847. 访问所有节点的最短路径](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/description/)
+[943. 最短超级串](https://leetcode.cn/problems/find-the-shortest-superstring/description/)
+[1349. 参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/description/)
+[1434. 分配帽子的最多方案数](https://leetcode.cn/problems/number-of-ways-to-wear-different-hats-to-each-other/description/)
+
+> 专项六：数位 DP 与博弈 DP (特定场景的动态规划)
+[233. 数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/description/)
+[902. 最大为 N 的数字组合](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/description/)
+[2376. 统计特殊整数](https://leetcode.cn/problems/count-special-integers/description/)
+[600. 不含连续1的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/description/)
+[486. 预测赢家](https://leetcode.cn/problems/predict-the-winner/description/)
+[877. 石子游戏](https://leetcode.cn/problems/stone-game/description/)
+[1025. 除数博弈](https://leetcode.cn/problems/divisor-game/description/)
